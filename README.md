@@ -1,4 +1,4 @@
 # README
 
 
-I'm a student of the Buenos Aires Institute Of Technology. (ITBA)
+I'm a student of the Technological Institute of Buenos Aires. (ITBA)
